@@ -2,7 +2,7 @@
 <h3>Front-End Developer | Creative Coder | Tech Enthusiast</h3>
 
 👨‍💻 Welcome to my digital realm where I craft immersive web experiences with a blend of art and code.
-<br> 
+<br>
 🌱 I'm on a perpetual quest for knowledge, always exploring the realms of innovative technologies.
 
 💼 My projects are a canvas where imagination meets reality, meticulously weaving aesthetics and functionality.
