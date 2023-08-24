@@ -1,5 +1,5 @@
 <h1>👋 Hey there, I'm <a href="https://ismailshaikhnag.vercel.app/">Ismail Shaikhnag</a></h1> 
-<h3>Front-End Developer | Creative Coder | Tech Enthusiast</h3> 
+<h3>Front-End Developer | Creative Coder | Tech Enthusiast</h3>
 
 👨‍💻 Welcome to my digital realm where I craft immersive web experiences with a blend of art and code.
 <br>
