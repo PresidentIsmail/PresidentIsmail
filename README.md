@@ -47,7 +47,7 @@
       <a href="#ismailshaikhnag-tech">
         <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_typescript.svg" width="48" height="48" alt="CSS" />
       </a>
-      <br>CSS
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#ismailshaikhnag-tech">
